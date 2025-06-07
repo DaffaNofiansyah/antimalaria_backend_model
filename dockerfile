@@ -1,5 +1,5 @@
 # Use an official Python runtime as a parent image
-FROM python:3.11.5-slim
+FROM python:3.11.5
 
 # Install required system dependencies (including wget and curl)
 RUN apt-get update && apt-get install -y wget curl && rm -rf /var/lib/apt/lists/*
