@@ -14,7 +14,7 @@ click-plugins==1.1.1
 click-repl==0.3.0
 colorama==0.4.6
 cryptography==45.0.3
-deepchem>=2.6.0
+deepchem
 Django==5.2.2
 django-cors-headers==4.7.0
 django-environ==0.12.0
